@@ -1,0 +1,15 @@
+.idea
+*.DS_Store
+*/target/*
+*.iml
+*.class
+*/.settings/*
+.settings/*
+.project
+.classpath
+*.orig
+/bin
+*/bin/*
+*.jar
+.eclipse
+/build
